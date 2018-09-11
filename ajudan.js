@@ -1,3 +1,5 @@
+// created by idabgsram
+
 var Discord = require('discord.io');
 var tokenfile = 'bottoken';
 var auth = require('./' + tokenfile + '.json');

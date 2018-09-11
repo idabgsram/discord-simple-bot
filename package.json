@@ -1,0 +1,11 @@
+{
+  "name": "AjudanSiTamvan",
+  "version": "0.0.1",
+  "description": "Ajudan Tercinta SiKacaTamvan",
+  "main": "ajudan.js",
+  "author": "SiKacaTamvan",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.1.0"
+  }
+}
